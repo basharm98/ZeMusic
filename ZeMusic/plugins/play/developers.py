@@ -20,18 +20,18 @@ from random import  choice, randint
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/96857cb597b588139fdd5.jpg",
-        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮](https://t.me/elhyba)❫
+        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[𐇮 Z3EIM 𐇮](https://t.me/Syri20)❫
 ◉ 𝚄𝚂𝙴𝚁 : ❪ @elhyba ❫
-◉ 𝙸𝙳      : ❪ `6581896306` ❫
-◉ 𝙱𝙸𝙾    : ❪ for me (@elhypa) my world (@Source_Ze - @up_uo) my bro (@e_l_z_o_u_z) ❫""",
+◉ 𝙸𝙳      : ❪ `6992029895` ❫
+◉ 𝙱𝙸𝙾    : ❪ for me (@Syri20) my world (@SYS90k - @Syri20) my bro (@Syri20) ❫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "᳒𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮", url=f"https://t.me/elhyba"), 
+                        "Z3EIM V1", url=f"https://t.me/syri20"), 
                  ],[
                    InlineKeyboardButton(
-                        "🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze"),
+                        "🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙3EIM 🔱", url=f"https://t.me/SYS90k"),
                 ],
 
             ]
