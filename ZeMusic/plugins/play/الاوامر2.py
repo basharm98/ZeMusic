@@ -21,7 +21,7 @@ async def arbic(_, query: CallbackQuery):
                         url=f"https://t.me/{app.username}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze"),
+                [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙3EIM 🔱", url=f"https://t.me/SYS90k"),
                 
 InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="afyona"),
                 ],
@@ -30,7 +30,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/Source_Ze"
+                        "‹ السورس ›", url=f"https://t.me/SYS90k"
                     ),
                     InlineKeyboardButton(
                         "‹ اضف البوت لمجموعتك ›", url=f"https://t.me/ze7hbot?startgroup=true"
@@ -38,7 +38,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url="https://t.me/ZeSupport"
+                        "‹ الدعم ›", url="https://t.me/SYSK9"
                     )
                 ],
             ]
