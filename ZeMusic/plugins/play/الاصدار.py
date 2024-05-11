@@ -25,8 +25,8 @@ from dotenv import load_dotenv
 )
 async def bkouqw(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/41a777f089288f7ad2571.jpg",
-        caption=f"""**اهلا بك عزيزي {message.from_user.mention} في اصدار سورس زد إي
+        photo=f"https://telegra.ph/file/596f49a42c05b59f5e1d9.jpg",
+        caption=f"""**اهلا بك عزيزي {message.from_user.mention} في اصدار سورس زعيم
 ★᚜ اسم سورس : زد إي
 
 ★᚜ نوع : ميوزك
@@ -38,12 +38,12 @@ async def bkouqw(client: Client, message: Message):
 ★᚜ الاصدار 2.0.14
 ★᚜ تاريخ التأسيس : 2024/2/2
 
-★᚜ مؤسس زد إي : [ 𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮](https://t.me/D_S_I)""",
+★᚜ مؤسس زعيم : [ 𐇮 Z3EIM 𐇮](https://t.me/Syri20)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze"), 
+                        "🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙3EIM 🔱", url=f"https://t.me/SYS90k"), 
                  ],[
                  InlineKeyboardButton(
                         "", callback_data="hpdtsnju"),
