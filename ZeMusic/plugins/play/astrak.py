@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType
 from pyrogram.errors import UserNotParticipant
 from ZeMusic import app
 
-channel = "Source_Ze"
+channel = "Z3EIM"
 async def subscription(_, __: Client, message: Message):
     user_id = message.from_user.id
     try: await app.get_chat_member(channel, user_id)
@@ -20,7 +20,7 @@ async def checker(_: Client, message: Message):
     user_id = message.from_user.id
     user = message.from_user.first_name
     markup = Markup([
-        [Button("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/{channel}")]
+        [Button("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 Z3EIM 🔱", url=f"https://t.me/SYS90k")]
     ])
     await message.reply(
         f"عذرًا عزيزي {user}عليك الإشتراك بقناة السور أولا.",
